@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Web Developer
 -----------------------
 
-Hello, my name is Bash, I'm a Front-End Developer from Nigeria(West Africa) with great passion for building an interactive websites. Since the beginning of my journey as a Front-End Developer a years ago, I have successful created responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is in Front-End Development, HTML, CSS, JS(ES6), building small and medium web apps, features, animations, and coding an interactive layouts.
+Hello, my name is Bash, I'm a Front-End Web Developer from Nigeria(West Africa) with great passion for building an interactive websites. Since the beginning of my journey as a Front-End Developer a years ago, I have successful created responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is in Front-End Development, HTML, CSS, JS(ES6), building small and medium web apps, features, animations, and coding an interactive layouts.
 
 *   🌍  I'm based in Nigerian
 *   🖥️  See my portfolio at [bashcodify](http://bashcodify.netlify.app)
